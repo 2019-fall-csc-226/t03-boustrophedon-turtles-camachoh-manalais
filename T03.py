@@ -28,7 +28,7 @@ def fill0 (fill):
         fill.forward(5)
 
 
-def main(): #made second function
+def main():
     wn = turtle.Screen()
     square = turtle.Turtle()
     fill = turtle.Turtle()
