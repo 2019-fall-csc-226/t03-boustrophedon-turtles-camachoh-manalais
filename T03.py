@@ -1,8 +1,8 @@
 #################################################################################
-# Author:
-# Username:
+# Author: Sama Manalai, Henry Camacho
+# Username:manalais, camachoh
 #
-# Assignment:
+# Assignment:T03
 # Purpose:
 #################################################################################
 # Acknowledgements:
@@ -14,6 +14,12 @@ import turtle
 import turtle
 
 def square0(square):
+    """
+    Draw square
+
+:param square: turtle object
+:return: none
+    """
     square.penup()
     square.pensize(5)
     square.setpos(30, 47)
